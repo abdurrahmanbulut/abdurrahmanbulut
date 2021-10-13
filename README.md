@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?abdurrahmanbulut=anuraghazra&show_icons=true&theme=radical)
+![Abdurrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurrahmanbulut&theme=dark&show_icons=true)
 
 
 - 🔭 I’m currently working on ...
