@@ -11,3 +11,4 @@ You can browse my projects and contact to me on these platforms!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahmanbulut&langs_count=10&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
  
+![Abdurrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurrahmanbulut&show_icons=true&theme=radical)
