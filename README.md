@@ -4,7 +4,7 @@
 I'm Abdurrahman Bulut!
 
 <div id="header" align="center">
-🔭 I’m currently working on Angular<br>🌱 I’m currently learning Machine Learning
+🔭 I’m currently working on Web with using Angular<br>🌱 My current goal is to find out Android Development with Kotlin
 
 
 ## 🌐 Socials:
