@@ -4,7 +4,7 @@
 I'm Abdurrahman Bulut!
 
 <div id="header" align="center">
-🔭 I’m currently working on Web Development with using React<br>🌱 My current goal is to find out Android Development with Kotlin
+🔭 I’m currently working on Android Development with using Kotlin and Jetpack Compose<br>
 
 
 ## 🌐 Socials:
