@@ -2,6 +2,8 @@
 
 🔭 Android Development - Kotlin - Jetpack Compose <br> <br>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1RT9Wj6g8fPyGubIt0MG3L&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdurrahmanbulut&theme=swift)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdurrahmanbulut&theme=swift)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdurrahmanbulut&theme=swift)
