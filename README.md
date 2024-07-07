@@ -4,7 +4,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdurrahmanbulut&theme=swift)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdurrahmanbulut&theme=swift)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdurrahmanbulut&theme=swift)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdurrahmanbulut&theme=swift&utcOffset=8)
 
 ## 🌐 Socials:
